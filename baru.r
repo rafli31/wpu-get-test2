@@ -2,6 +2,7 @@ install.packages("rmarkdown")
 #matrix
 library(rmarkdown)
 1:20
+
 bil <- 1:20
 matriks.bil<-matrix(bil)
 #berdasarkan kolom
