@@ -1,4 +1,5 @@
 ## SARIMA
+## tugas
 
 library(tseries) #library untuk membentuk model dalam analisis time series
 library(forecast) # library untuk melakukan peramalan
